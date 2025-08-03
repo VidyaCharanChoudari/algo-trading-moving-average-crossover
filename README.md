@@ -9,7 +9,8 @@ This project implements a simple algorithmic trading strategy using Python, wher
 - Python, Jupyter Notebook, Google Colab
 - `pandas`, `yfinance`, `matplotlib`, `gspread`
 
-![Chart](https://github.com/VidyaCharanChoudari/algo-trading-moving-average-crossover/blob/main/Screenshot%202025-08-03%20140536.png)  
+![Strategy Chart](strategy_chart.png)
+
 
 ## 🔗 Google Sheet
 
